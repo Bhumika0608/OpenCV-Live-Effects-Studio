@@ -1,7 +1,7 @@
 # OpenCV-Live-Effects-Studio
 
 This project explores real-time image & video processing using OpenCV in C++.
-We began with basic webcam streaming and progressively built interactive visual effects that can be toggled using keyboard controls.
+Began with basic webcam streaming and progressively built interactive visual effects that can be toggled using keyboard controls.
 
 Implemented features include:
 
